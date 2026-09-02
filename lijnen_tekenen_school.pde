@@ -1,5 +1,6 @@
 size(200,200);
 background(255,255,255);
+
 stroke(0,0,255);
 strokeWeight(20);
 line(30, 190, 190, 30);
